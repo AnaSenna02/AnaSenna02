@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👩‍💻 Ana Senna!
 
-<!--
-**AnaSenna02/AnaSenna02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do **SENAI-SP**, cursando o **Técnico em Desenvolvimento de Sistemas** desde o 2º ano do Ensino Médio. Atualmente, estou no **3º ano** e sigo aprimorando minhas habilidades na área da tecnologia. Mas tenho interesse na área da Nutrição.
 
-Here are some ideas to get you started:
+💡 Gosto de aprender e criar! Estou sempre explorando novas linguagens, frameworks e ferramentas. Atualmente, tenho experiência com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **JavaScript**  
+- **HTML/CSS**  
+- **MySQL**  
+- **API REST** 
+
+Aqui, compartilho meus projetos, enquanto continuo minha jornada como desenvolvedora.
+
+🚀 Busco constantemente novos desafios e oportunidades para crescer. Se quiser trocar ideias, entre em contato!
+
